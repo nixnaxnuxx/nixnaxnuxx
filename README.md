@@ -1,7 +1,4 @@
-👋 Hi, I'm Fatin Amanina Azis!
-
-_  🎓 PhD Candidate in Systems Engineering
-  📍 Universiti Brunei Darussalam_
+👋 Hi, I'm Fatin Amanina Azis! A PhD Candidate in Systems Engineering from Universiti Brunei Darussalam
   
   🔍 Areas of Interest
     
