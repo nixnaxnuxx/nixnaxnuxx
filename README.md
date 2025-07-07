@@ -1,6 +1,6 @@
   🔍 Areas of Interest
     
-    Waste Management; Circular Economy; Sustainability; Computer Vision; Machine Learning
+    Waste Management; Circular Economy; Sustainability; Computer Vision; Machine Learning; Predictive Analytics
   
   🔧 Skills
     
