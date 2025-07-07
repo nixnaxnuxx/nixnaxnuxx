@@ -10,11 +10,12 @@
   📂 Projects
     
     1. Shell Eco-marathon Asia Pacific and Middle East, Belia Tabah Electric Vehicle Prototype
-    2. Machine Learning Based Performance Forecasting, Drowsiness Estimation, and Fatigue Diagnosis for Driving Safety
-    3. Sustainable Organic Waste Management via Electric Composting
-    4. Anomaly Detection on Oil and Gas Rotating Equipments
-    5. Automatic Waste Segregator using Computer Vision
-    6. Real-Time Face Mask Classification for COVID-19
+    2. Robotic Hand Manipulation
+    3. Machine Learning Based Performance Forecasting, Drowsiness Estimation, and Fatigue Diagnosis for Driving Safety
+    4. Sustainable Organic Waste Management via Electric Composting
+    5. Anomaly Detection on Oil and Gas Rotating Equipments
+    6. Automatic Waste Segregator using Computer Vision
+    7. Real-Time Face Mask Classification
   
   📫 Connect with Me
     
