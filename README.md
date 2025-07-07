@@ -11,7 +11,7 @@
     
     1. Shell Eco-marathon Asia Pacific and Middle East, Belia Tabah Electric Vehicle Prototype
     2. Robotic Hand Manipulation
-    3. Personal AI Voice Companion
+    3. Personal AI Voice Companion with Pi
     4. Machine Learning Based Performance Forecasting, Drowsiness Estimation, and Fatigue Diagnosis for Driving Safety
     5. Sustainable Organic Waste Management via Electric Composting
     6. Anomaly Detection on Oil and Gas Rotating Equipments
