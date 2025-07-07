@@ -4,8 +4,8 @@
   
   🔧 Skills
     
-    Programming Languages: Python, Java, C, MATLAB
-    Frameworks & Tools: Machine Learning, Data Analysis, AI, Computer Vision, Power BI, Systems Engineering
+    Programming Languages: Python, Java, C, C#, MATLAB
+    Frameworks & Tools: Machine Learning, Data Analysis, AI, Computer Vision, Power BI, Systems Engineering, Respberry Pi, Arduino, EDA, LCCA, EIA
   
   📂 Projects
     
